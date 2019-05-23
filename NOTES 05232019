@@ -1,0 +1,17 @@
+getwd() get working directory
+
+read.csv() - read csv file
+
+'<-' define a variable
+
+creating a function
+functionname <- function() { 
+x <- rnorm(100)
+mean(x)
+}
+
+
+source(code.R) <<< load the code to R
+
+ls() <<< list the functions in the code
+
